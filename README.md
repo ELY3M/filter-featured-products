@@ -3,5 +3,6 @@ Improves WooCommerce back-end by adding capability to filter products based on f
 
 ## Installation
 
-Install plugin via the WordPress.org plugin repository or by uploading the files to your server.
+1. git clone https://github.com/ELY3M/filter-featured-products
+2. Install plugin via uploading the files to your server.
 

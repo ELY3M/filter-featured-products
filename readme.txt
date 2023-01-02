@@ -1,6 +1,5 @@
 === Filter Featured for WooCommerce ===
-Contributors: backpackstudio
-Donate link: https://tareq.co/donate/
+Contributors: elymbmx - credit to backpackstudio
 Tags: woocommerce, filter
 Requires at least: 5.4
 Tested up to: 5.7.2
@@ -42,7 +41,7 @@ No. Functionality is loaded only when WooCommerce is installed and active. You d
  = 1.0.0 2021-05-25 =
 
  * Bug fix
- * Code improvements
+ * Code improvements 
  
 == Upgrade Notice ==
 
